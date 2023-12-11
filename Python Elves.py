@@ -50,7 +50,6 @@ for digit in num_list:
 # Sum all the two digits in the list 'two_digit_list'
 add_num = sum(two_digit_list)
 
-
-#print(two_digit_list)
-
 print(add_num)
+
+# Output: 52974
